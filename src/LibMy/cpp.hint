@@ -1,0 +1,2 @@
+#define LIBMY_API __declspec(dllexport)
+#define LIBMY_API __declspec(dllimport)
