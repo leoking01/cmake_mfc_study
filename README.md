@@ -1,0 +1,1 @@
+# cmake_mfc_study
